@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="javasource"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Program Files/Mendix/10.3.0.16220/runtime/bundles/com.mendix.json.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Mendix/10.3.0.16220/runtime/bundles/com.mendix.logging-api.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Mendix/10.3.0.16220/runtime/bundles/com.mendix.m2ee-api.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Mendix/10.3.0.16220/runtime/bundles/com.mendix.public-api.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Mendix/10.3.0.16220/runtime/bundles/javax.servlet.servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Mendix/10.3.0.16220/runtime/bundles/javax.websocket.websocket-api.jar"/>
+	<classpathentry kind="lib" path="vendorlib/checker-qual-3.33.0.jar"/>
+	<classpathentry kind="lib" path="vendorlib/commons-beanutils-1.9.4.jar"/>
+	<classpathentry kind="lib" path="vendorlib/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="vendorlib/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="vendorlib/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="vendorlib/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="vendorlib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="vendorlib/commons-text-1.10.0.jar"/>
+	<classpathentry kind="lib" path="vendorlib/error_prone_annotations-2.18.0.jar"/>
+	<classpathentry kind="lib" path="vendorlib/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="vendorlib/fontbox-2.0.30.jar"/>
+	<classpathentry kind="lib" path="vendorlib/guava-32.0.1-jre.jar"/>
+	<classpathentry kind="lib" path="vendorlib/j2objc-annotations-2.8.jar"/>
+	<classpathentry kind="lib" path="vendorlib/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="vendorlib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="vendorlib/opencsv-5.7.1.jar"/>
+	<classpathentry kind="lib" path="vendorlib/owasp-java-html-sanitizer-20211018.2.jar"/>
+	<classpathentry kind="lib" path="vendorlib/pdfbox-2.0.30.jar"/>
+	<classpathentry kind="output" path="deployment/run/bin"/>
+</classpath>
